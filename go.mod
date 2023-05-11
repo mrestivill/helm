@@ -13,7 +13,7 @@ require (
 	github.com/containerd/containerd v1.3.0
 	github.com/cyphar/filepath-securejoin v0.2.2
 	github.com/deislabs/oras v0.7.0
-	github.com/docker/distribution v2.7.1+incompatible
+	github.com/docker/distribution v2.8.2+incompatible
 	github.com/docker/docker v1.4.2-0.20181221150755-2cb26cfe9cbf
 	github.com/docker/go-units v0.4.0
 	github.com/docker/spdystream v0.0.0-20181023171402-6480d4af844c // indirect
